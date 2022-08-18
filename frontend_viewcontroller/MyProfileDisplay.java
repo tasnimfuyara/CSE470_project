@@ -12,10 +12,7 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import javax.swing.*;
 
-/**
- *
- * @author student
- */
+
 //2 lists
 //1 image
 //1 really big label OR textField

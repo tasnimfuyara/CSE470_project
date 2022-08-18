@@ -12,10 +12,7 @@ import javax.swing.*;
 import java.io.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-/**
- *
- * @author cerva
- */
+
 //Scrolling?
 //Ideally 6 Pictures at a time
 //3 skin colors

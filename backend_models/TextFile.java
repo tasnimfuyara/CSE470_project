@@ -3,10 +3,7 @@ package backend_models;
 import java.util.*;
 import java.io.*;
 
-/**
- *
- * @author Homer
- */
+
 public class TextFile {
 
     public String fileContent = "";

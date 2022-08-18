@@ -13,10 +13,7 @@ import java.io.IOException;
 import javax.swing.*;
 import javax.swing.JFrame;
 
-/**
- *
- * @author student
- */
+
 public class AddInterestDisplay extends JFrame{
     BackendModel theBackendModel;
     public AddInterestDisplay(BackendModel theBackendModel) {

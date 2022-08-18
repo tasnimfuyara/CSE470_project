@@ -8,10 +8,7 @@ package backend_models;
 import java.io.*;
 import java.util.*;
 
-/**
- *
- * @author cerva
- */
+
 public class SearchEngine {
 
     public String[] getSuggestedUsers(Account clientAccount) {

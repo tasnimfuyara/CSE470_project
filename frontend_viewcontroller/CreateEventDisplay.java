@@ -12,10 +12,7 @@ import java.awt.GridBagLayout;
 import java.io.IOException;
 import javax.swing.*;
 
-/**
- *
- * @author student
- */
+
 //three text fields
 //one button
 //two Spinners

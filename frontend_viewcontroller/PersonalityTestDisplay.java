@@ -17,10 +17,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.*;
 
-/**
- *
- * @author cerva
- */
+
 public class PersonalityTestDisplay extends JFrame implements ActionListener {
 
     BackendModel theBackendModel;
