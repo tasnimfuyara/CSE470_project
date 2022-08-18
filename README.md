@@ -1,13 +1,14 @@
-# cse470project2020
 this is the project for CSE 470 course of BRAC Universily of summer 2022 semester.
 
-Social Networking System
-A java based social network application created in NetBeans.
-This application is intended for University students who have difficulty making friends.
-Users can create an account and select their University. They are then placed in a pool with other users who attend the same University. 
-Users can then take a short personality test and select a few of their interests to complete their profile. 
-This information is then used to reccomend other users with the same interests who go to the same University. Users can also send friend requests
-directly to other users if they know their username. 
-Users who are friends can message each other.
-Any user can create an event for other users who go to the same University. These events are public
-and everyone who attends the school can see them.
+-----------------Social Networking System-------------------------
+It's a java based social networking application created in NetBeans.Here-
+
+- Users can login and create account using name, password, school/university name gender.
+- Users can add or update profile picture.
+- Users can take a personality test by answering some few questions.
+- Users can add their interest.
+- Any user can create an event for other users who go to the same University. These events are public and everyone who attends the school can see them.
+- Users can add friends and chat with each other.
+- There's a seach bar in our system, users can search other user by user name.
+- Our system also adds bio to the user profile according to the personality test, school/university name, interest, username etc.
+- Our system also verify users whenever they create account.
