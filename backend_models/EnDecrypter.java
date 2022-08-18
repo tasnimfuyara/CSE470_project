@@ -1,6 +1,9 @@
 package backend_models;
 
-
+/**
+ *
+ * @author Nich
+ */
 public class EnDecrypter {
 
     public static char[] encrypt(char[] plainText) {

@@ -12,6 +12,10 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import javax.swing.*;
 
+/**
+ *
+ * @author student
+ */
 public class HomePageDisplay extends JFrame implements ActionListener {
 
     BackendModel theBackendModel;

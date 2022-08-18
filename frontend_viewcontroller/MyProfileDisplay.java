@@ -14,6 +14,7 @@ import javax.swing.*;
 
 /**
  *
+ * @author student
  */
 //2 lists
 //1 image

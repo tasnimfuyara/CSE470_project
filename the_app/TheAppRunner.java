@@ -4,7 +4,11 @@
 
 package the_app;
 
-
+/**
+ * Bootstrap for running TheApp.
+ * 
+ * @author cheng
+ */
 public class TheAppRunner {
     
     /**

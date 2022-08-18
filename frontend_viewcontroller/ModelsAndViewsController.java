@@ -34,6 +34,7 @@ import javax.swing.JPanel;
  * The FOUR (4) main steps to creating GUI widgets are labeled below. There are
  * many smaller steps you should get familiar with as well.
  *
+ * @author cheng
  */
 public class ModelsAndViewsController {
 

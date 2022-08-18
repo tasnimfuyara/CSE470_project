@@ -5,6 +5,10 @@
  */
 package backend_models;
 
+/**
+ *
+ * @author student
+ */
 public class Verify {
 
     private String path;

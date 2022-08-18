@@ -1,5 +1,4 @@
-tasnim:, fuyara, fuyara, kashpia, 
+tasnim:, fuyara, fuyara, 
 fuyara:, tasnim, 
 chhoan:, 
 karim:, 
-kashpia:, tasnim, 
