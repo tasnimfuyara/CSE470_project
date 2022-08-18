@@ -1,4 +1,4 @@
-this is the project for CSE 470 course of BRAC Universily of summer 2022 semester.
+This is the project for CSE 470 course of BRAC Universily of summer 2022 semester.
 
 -----------------Social Networking System-------------------------
 It's a java based social networking application created in NetBeans.Here-
