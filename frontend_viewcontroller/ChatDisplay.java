@@ -13,10 +13,7 @@ import java.awt.GridBagLayout;
 import java.io.IOException;
 import javax.swing.*;
 
-/**
- *
- * @author student
- */
+
 public class ChatDisplay extends JFrame {
 //A send button
 //a text space

@@ -5,7 +5,8 @@ usernamef:Password¿Ernest Manning¡Male¤default¡0000:
 scervania:susan¿Western Canada¡Female¤female3¡0000:
 usernames:Password¿Ernest Manning¡Male¤male3¡0000:
 nikcholas:powerplus5¿E.P. Scarlet¡Male¤default¡0000:
-tasnim:tasnim¿Western Canada¡Female¤female1¡0001:
+tasnim:tasnim¿Western Canada¡Female¤female2¡0001:
 fuyara:fuyara¿none¡Female¤female1¡0000:
 chhoan:chhoan¿none¡Female¤default¡0000:
 karim:karim¿none¡Male¤male1¡0000:
+kashpia:kashpia¿Western Canada¡Female¤female3¡0000:

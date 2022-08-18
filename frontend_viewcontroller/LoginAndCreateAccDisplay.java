@@ -166,13 +166,7 @@ public class LoginAndCreateAccDisplay extends JFrame implements ActionListener {
         this.verifImage = new JLabel();
         this.FinalCreateAcc = new JButton();
         this.FinalCreateAcc.setText("Create Account");
-        /*
-         * Choose your LayoutManager for the mainDisplayPane here. See:
-         * http://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html
-         *
-         * I suggest GridBagLayout. For more details, see:
-         * http://docs.oracle.com/javase/tutorial/uiswing/layout/gridbag.html
-         */
+        
         Container mainDisplayPane = this.getContentPane();
         mainDisplayPane.setLayout(new GridBagLayout());
 

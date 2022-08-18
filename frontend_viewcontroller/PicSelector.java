@@ -14,7 +14,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author cerva
  */
 //Scrolling?
 //Ideally 6 Pictures at a time

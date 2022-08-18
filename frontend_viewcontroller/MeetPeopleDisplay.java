@@ -5,10 +5,7 @@
  */
 package frontend_viewcontroller;
 
-/**
- *
- * @author student
- */
+
 import backend_models.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

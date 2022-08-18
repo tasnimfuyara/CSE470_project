@@ -10,11 +10,7 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- * Sets up the model-view-controller classes of TheApp.
- *
- * @author cheng
- */
+
 public class TheApp implements Runnable {
 
     @Override
